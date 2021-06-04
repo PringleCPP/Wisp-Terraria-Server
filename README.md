@@ -6,7 +6,13 @@
 # Wisp Terraria Server
 
 Q: What is this?
+
 A: Its a terraria server system that doesn't require steam to be installed on the device to use.
 
 Q: Why should I use this?
+
 A: If you have an old laptop you can easily put this on a USB drive and send it to your old laptop and then run the server on it for your friends to play.
+
+Q: How do I get my server IP?
+
+A: Go to your command prompt and type in "ipconfig" then your IPv4 should be the IP of the server.

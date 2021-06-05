@@ -1,7 +1,3 @@
-#this is an example config file for TerrariaServer.exe
-#use the command 'TerrariaServer.exe -config serverconfig.txt' to use this configuration or run start-server.bat
-#please report crashes by emailing crashlog.txt to support@terraria.org
-
 #the following is a list of available command line parameters:
 
 #-config <config file>				            Specifies the configuration file to use.
@@ -49,7 +45,7 @@
 #password=p@55w0rd
 
 #Set the message of the day
-#motd=Please don’t cut the purple trees!
+#motd=Please donâ€™t cut the purple trees!
 
 #Sets the folder where world files will be stored
 #worldpath=C:\Users\Defaults\My Documents\My Games\Terraria\Worlds\

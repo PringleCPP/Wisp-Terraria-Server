@@ -16,3 +16,7 @@ A: If you have an old laptop you can easily put this on a USB drive and send it 
 Q: How do I get my server IP?
 
 A: Go to your command prompt and type in "ipconfig" then your IPv4 should be the IP of the server.
+
+Q: What else can it do?
+
+A: We have created super fast world generation, it will generate worlds much faster than if you load up the game to generate it.

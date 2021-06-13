@@ -26,3 +26,7 @@ A: Go to your command prompt and type in "ipconfig" then your IPv4 should be the
 Q: What else can it do?
 
 A: We have created super fast world generation, it will generate worlds much faster than if you load up the game to generate it.
+
+Q: Is this still supported?
+
+A: No, I have discontinued this project and started on the crossplay server.
